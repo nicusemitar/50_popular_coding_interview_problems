@@ -1,7 +1,10 @@
 # Default ignored files
 /shelf/
-/workspace.xml
+/.idea/workspace.xml
 .idea/
+*.iml
+out
+target/
 # Datasource local storage ignored files
 /../../../../../../:\Users\semit\IdeaProjects\50_popular_coding_interview_problems_course\.idea/dataSources/
 /dataSources.local.xml
